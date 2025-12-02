@@ -1,4 +1,4 @@
-import "./Companents/Cards.css";
+import "./Cards.css";
 
 export default function Cards({ icon, title, text }) {
   return (

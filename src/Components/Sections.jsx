@@ -1,6 +1,6 @@
-import Cards from "./Companents/Cards";
-import { features } from "./Companents/data.jsx";
-import "./Companents/Sections.css";
+import Cards from "./Cards.js";
+import { features } from "./data.js";
+import "./Sections.css";
 
 export default function Sections() {
   return (
