@@ -22,10 +22,11 @@
   font-size: 18px;
   font-weight: 600;
   margin-bottom: 12px;
+  color: #0e0b7a;
 }
 
 .text {
   font-size: 14px;
   line-height: 1.5;
-  color: #555;
+  color: #5e5e5e;
 }
