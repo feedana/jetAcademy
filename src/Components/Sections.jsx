@@ -1,5 +1,5 @@
-import Cards from "./Cards.js";
-import { features } from "./data.js";
+import Cards from "./Cards.jsx";
+import { features } from "./data.jsx";
 import "./Sections.css";
 
 export default function Sections() {
